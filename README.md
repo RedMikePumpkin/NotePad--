@@ -1,2 +1,2 @@
 # NotePad--
-A notepad-like text editor
+A notepad-like text editor in a browser
